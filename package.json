@@ -1,0 +1,19 @@
+{
+  "name": "mensa-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "html-get": "^2.9.13",
+    "nodemon": "^2.0.15"
+  },
+  "description": ""
+}
